@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "憂う門には福来たる",
+  "base_artist": "somei",
+  "createdAt": "2025-12-28T02:38:54.226115Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "憂う門には福来たる",
+      "artist": "somei",
+      "has_synced": true,
+      "path": "select/01_憂う門には福来たる_somei.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "憂う門には福来たる",
+      "artist": "somei",
+      "has_synced": false,
+      "path": "select/pl_01_憂う門には福来たる_somei.txt"
+    }
+  ]
+}
